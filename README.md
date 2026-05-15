@@ -32,6 +32,9 @@ El sistema está dividido en múltiples capas:
 
 La API se encuentra desplegada en Microsoft Azure.
 
+
+https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html
+
 ---
 
 ## 📌 Características
@@ -43,11 +46,7 @@ La API se encuentra desplegada en Microsoft Azure.
 - Integración con Azure
 
 ---
-## 🚀 Live Demo (Swagger): [Enlace de Azure]
 
-Backend desplegado en Microsoft Azure:
-
-https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html
 
 
 ## 👨‍💻 Autor
