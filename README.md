@@ -43,6 +43,12 @@ La API se encuentra desplegada en Microsoft Azure.
 - Integración con Azure
 
 ---
+## 🚀 Demo API
+
+Backend desplegado en Microsoft Azure:
+
+https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html
+
 
 ## 👨‍💻 Autor
 
