@@ -37,6 +37,12 @@ https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/s
 
 ---
 
+TOKEN:
+
+Usuario: cajero
+Password: cajero123
+
+
 ## 📌 Características
 
 - Arquitectura en capas
