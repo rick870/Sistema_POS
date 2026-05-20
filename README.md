@@ -4,6 +4,22 @@ Backend para un sistema POS desarrollado con ASP.NET Core (.NET 8) y Arquitectur
 
 ---
 
+## ☁️ Despliegue
+
+La API se encuentra desplegada en Microsoft Azure.
+
+
+https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html
+
+---
+
+TOKEN:
+
+Usuario: cajero / 
+Password: cajero123
+
+---
+
 ## 🧩 Arquitectura del Proyecto
 
 El sistema está dividido en múltiples capas:
@@ -28,19 +44,7 @@ El sistema está dividido en múltiples capas:
 
 ---
 
-## ☁️ Despliegue
 
-La API se encuentra desplegada en Microsoft Azure.
-
-
-https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html
-
----
-
-TOKEN:
-
-Usuario: cajero / 
-Password: cajero123
 
 
 ## 📌 Características
