@@ -6,21 +6,16 @@ Backend para un sistema POS desarrollado con ASP.NET Core (.NET 8) y Arquitectur
 
 ## ☁️ Despliegue
 
-La API se encuentra desplegada en Microsoft Azure.
+La API se encuentra desplegada y lista para pruebas en Microsoft Azure:
 
+🔗 **[Acceder al panel de Swagger (API en vivo)](https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html)**
 
-https://web-pos-api-rafael-fxbjdxf6drcggjc2.westcentralus-01.azurewebsites.net/swagger/index.html
+**Credenciales de prueba:**
+* **Usuario:** cajero
+* **Password:** cajero123
 
----
-TOKEN:
-
-Usuario: cajero / 
-Password: cajero123
-
----
-
-⚠️ Nota para usuarios de ESET NOD32 / Antivirus estrictos: > > Debido a que el entorno está desplegado en un subdominio gratuito y genérico de pruebas de Azure (.azurewebsites.net), algunos antivirus pueden marcar la URL temporalmente como un falso positivo de phishing por su longitud. El sitio es 100% seguro; si te aparece la advertencia, puedes hacer clic en "Ignorar amenaza / Continuar al sitio" para acceder al panel de Swagger normalmente.
-
+> [!WARNING]
+> **Nota para usuarios de ESET NOD32 / Antivirus estrictos:** > Debido a que el entorno está desplegado en un subdominio gratuito y genérico de pruebas de Azure (`.azurewebsites.net`), algunos antivirus pueden marcar la URL temporalmente como un *falso positivo de phishing* debido a la longitud y formato del enlace por defecto. El sitio es 100% seguro. Si te aparece la advertencia en tu navegador, puedes hacer clic en **"Ignorar amenaza"** o **"Continuar al sitio"** para acceder a Swagger normalmente.
 ---
 
 ## 🧩 Arquitectura del Proyecto
